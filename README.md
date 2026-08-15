@@ -4,7 +4,7 @@
 Some are dumb with terror. Some flee. Some hide.
 And some spread their wings like eagles and soar on the wind.”
 
-I prefer ideas with architecture—those that sharpen judgment, survive practice, and leave something standing. Vertigo mistaken for depth, destabilization consumed for stimulation, and obscurity worn as proof of intelligence do not impress me.
+_I prefer ideas with architecture—those that sharpen judgment, cultivate self-command, and enlarge one’s capacity to flourish. Vertigo mistaken for depth, destabilization consumed for stimulation, and obscurity worn as proof of intelligence are poor substitutes for a mind that can govern itself and turn understanding into real world impact._
 
 ## Projects
 shhhhh its a secret~
