@@ -18,9 +18,9 @@ neurotech · computational biology · decision tools · information + knowledge 
 shhhhh its a secret~
 
 <details>
-<summary>🐁 nothing to see here</summary>
+<summary>nothing to see here</summary>
 
-<pre>
+<pre style="font-size:8px; line-height:1;">
 ⠀⠀⠀⠀⠀⠀⢀⡠⠤⠒⠒⠀⠀⠉⠈⠀⠀⠐⠂⢄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⣠⠞⠉⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠙⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⡠⠎⠀⠀⠀⠀⠀⠀⠀⠀⠸⣗⢴⣤⡄⠀⠀⠀⠀⠀⢻⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
