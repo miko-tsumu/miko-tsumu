@@ -6,5 +6,13 @@ And some spread their wings like eagles and soar on the wind.”
 
 _I prefer ideas with architecture—those that sharpen judgment, cultivate self-command, and enlarge one’s capacity to flourish. Vertigo mistaken for depth, destabilization consumed for stimulation, and obscurity worn as proof of intelligence are poor substitutes for a mind that can govern itself and turn understanding into real world impact._
 
+## Syntax & Subjects
+
+**Languages**
+`Java` · `C` · `C++` · `R` · `MATLAB` · *whatever the project requires*
+
+**Interests**
+neurotech · computational biology · decision tools · open-access information
+
 ## Projects
 shhhhh its a secret~
