@@ -1,4 +1,4 @@
-## The Long Ascent
+## Working Principles
 
 “When the storm breaks, each man acts in accordance with his own nature.
 Some are dumb with terror. Some flee. Some hide.
@@ -12,6 +12,6 @@ _I prefer ideas with architecture—those that sharpen judgment, cultivate self-
 `Java` · `C` · `C++` · `R` · `MATLAB` · *whatever the project requires*
 
 **Interests**
-stem cells · neurotech · decision tools · information, knowledge, + education for public good
+stem cells · neurotech · decision tools · information, knowledge, and education for public good
 
 ## Projects
