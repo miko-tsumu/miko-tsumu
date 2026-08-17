@@ -12,7 +12,7 @@ _I prefer ideas with architecture—those that sharpen judgment, cultivate self-
 `Java` · `C` · `C++` · `R` · `MATLAB` · *whatever the project requires*
 
 **Interests**
-neurotech · computational biology · decision tools · information + knowledge for public good
+stem cells · neurotech · decision tools · information, knowledge, + education for public good
 
 ## Projects
 shhhhh its a secret~
