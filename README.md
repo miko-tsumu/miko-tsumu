@@ -9,7 +9,7 @@ _I prefer ideas with architecture—those that sharpen judgment, cultivate self-
 ## Syntax & Subjects
 
 **Languages**
-`Java` · `C` · `C++` · `R` · `MATLAB` · *whatever the project requires*
+`Java` · `C` · `C++` · `R` · `MATLAB` · `Astro` *whatever the project requires*
 
 **Interests**
 stem cells · neurotech · decision tools · information, knowledge, and education for public good
