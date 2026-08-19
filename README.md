@@ -15,3 +15,4 @@ _I prefer ideas with architecture—those that sharpen judgment, cultivate self-
 stem cells · neurotech · decision tools · information, knowledge, and education for public good
 
 ## Projects
+[in progress - private]
